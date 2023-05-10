@@ -1,0 +1,21 @@
+header section{
+    background-image: url(./img/info.jpg);
+    height:8rem;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header section h2{
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+}
+table tr th, table tr td{
+    border: 0.1rem solid black;
+    padding: 2.0rem;
+}
+table{
+    border-collapse: collapse;
+}
